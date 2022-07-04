@@ -13,7 +13,7 @@ export default function Home() {
       />
       <p class={tw`my-6`}>
         Hell world
-        file, and refresh.
+        file, refresh and deploy.
       </p>
       <Counter start={3} />
     </div>
