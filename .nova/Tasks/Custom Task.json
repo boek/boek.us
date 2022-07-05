@@ -1,9 +1,9 @@
 {
-  "actions" : {
-    "run" : {
-      "enabled" : true,
-      "script" : "deno task start"
+  "actions": {
+    "run": {
+      "enabled": true,
+      "script": "deno task start"
     }
   },
-  "openLogOnRun" : "start"
+  "openLogOnRun": "start"
 }
